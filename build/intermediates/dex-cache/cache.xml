@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/zhangshan/Desktop/github代码测试/仿ios弹出框/MultiPhotoPicker/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="33820d954ba72da5333fbe0168ff240b42543d51">
+        <dex dex="/Users/zhangshan/Desktop/github代码测试/仿ios弹出框/MultiPhotoPicker/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_fd918183904c3dec9cb4049ac5857dc681f3ce6c.jar" />
+    </item>
+    <item
+        jar="/Users/zhangshan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.0.0/support-v4-19.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="afee690af14bd2c32d400cdf78e746fd45c386fa">
+        <dex dex="/Users/zhangshan/Desktop/github代码测试/仿ios弹出框/MultiPhotoPicker/app/build/intermediates/pre-dexed/debug/support-v4-19.0.0_5ed52c19af365e91f5d9803f8a4f8b0531824d15.jar" />
+    </item>
+    <item
+        jar="/Users/zhangshan/Desktop/github代码测试/仿ios弹出框/MultiPhotoPicker/app/libs/fastjson-1.1.40.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="cf8b196dea0f5efa96adc81c047adf7b3d4633ed">
+        <dex dex="/Users/zhangshan/Desktop/github代码测试/仿ios弹出框/MultiPhotoPicker/app/build/intermediates/pre-dexed/debug/fastjson-1.1.40_3c35a34cf356661a7f2787e9df7f59d731195c34.jar" />
+    </item>
+    <item
+        jar="/Users/zhangshan/Desktop/github代码测试/仿ios弹出框/MultiPhotoPicker/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8f503ea7ac245e71ada3b257d4af4b833ac3f7d2">
+        <dex dex="/Users/zhangshan/Desktop/github代码测试/仿ios弹出框/MultiPhotoPicker/app/build/intermediates/pre-dexed/debug/instant-run_826e1242d491f16f5e2405f3763da7fbc3b8a40a.jar" />
+    </item>
+    <item
+        jar="/Users/zhangshan/.gradle/caches/modules-2/files-2.1/org.greenrobot/eventbus/3.0.0/ddd99896e9569eaababbe81b35d80e1b91c4ad85/eventbus-3.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="/Users/zhangshan/Desktop/github代码测试/仿ios弹出框/MultiPhotoPicker/app/build/intermediates/pre-dexed/debug/eventbus-3.0.0_387ab5ed7485ff88a4778dd78a5e32ae869acaee.jar" />
+    </item>
+    <item
+        jar="/Users/zhangshan/Desktop/github代码测试/仿ios弹出框/MultiPhotoPicker/app/build/intermediates/exploded-aar/com.orhanobut/logger/1.8/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="905a1a3170bf8e5f07e14217f5bdc2348f1425ca">
+        <dex dex="/Users/zhangshan/Desktop/github代码测试/仿ios弹出框/MultiPhotoPicker/app/build/intermediates/pre-dexed/debug/com.orhanobut-logger-1.8_6e5c5193d846498d449a8376e8620d5f613b8898.jar" />
+    </item>
+
+</items>

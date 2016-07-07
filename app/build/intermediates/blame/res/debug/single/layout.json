@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/zhangshan/Desktop/github代码测试/仿ios弹出框/MultiPhotoPicker/app/build/intermediates/res/merged/debug/layout/item_bucket_list.xml",
+        "source": "/Users/zhangshan/Desktop/github代码测试/仿ios弹出框/MultiPhotoPicker/app/src/main/res/layout/item_bucket_list.xml"
+    },
+    {
+        "merged": "/Users/zhangshan/Desktop/github代码测试/仿ios弹出框/MultiPhotoPicker/app/build/intermediates/res/merged/debug/layout/item_publish.xml",
+        "source": "/Users/zhangshan/Desktop/github代码测试/仿ios弹出框/MultiPhotoPicker/app/src/main/res/layout/item_publish.xml"
+    },
+    {
+        "merged": "/Users/zhangshan/Desktop/github代码测试/仿ios弹出框/MultiPhotoPicker/app/build/intermediates/res/merged/debug/layout/act_zoom.xml",
+        "source": "/Users/zhangshan/Desktop/github代码测试/仿ios弹出框/MultiPhotoPicker/app/src/main/res/layout/act_zoom.xml"
+    },
+    {
+        "merged": "/Users/zhangshan/Desktop/github代码测试/仿ios弹出框/MultiPhotoPicker/app/build/intermediates/res/merged/debug/layout/header_titlebar.xml",
+        "source": "/Users/zhangshan/Desktop/github代码测试/仿ios弹出框/MultiPhotoPicker/app/src/main/res/layout/header_titlebar.xml"
+    },
+    {
+        "merged": "/Users/zhangshan/Desktop/github代码测试/仿ios弹出框/MultiPhotoPicker/app/build/intermediates/res/merged/debug/layout/act_publish.xml",
+        "source": "/Users/zhangshan/Desktop/github代码测试/仿ios弹出框/MultiPhotoPicker/app/src/main/res/layout/act_publish.xml"
+    },
+    {
+        "merged": "/Users/zhangshan/Desktop/github代码测试/仿ios弹出框/MultiPhotoPicker/app/build/intermediates/res/merged/debug/layout/act_image_bucket_choose.xml",
+        "source": "/Users/zhangshan/Desktop/github代码测试/仿ios弹出框/MultiPhotoPicker/app/src/main/res/layout/act_image_bucket_choose.xml"
+    },
+    {
+        "merged": "/Users/zhangshan/Desktop/github代码测试/仿ios弹出框/MultiPhotoPicker/app/build/intermediates/res/merged/debug/layout/item_image_list.xml",
+        "source": "/Users/zhangshan/Desktop/github代码测试/仿ios弹出框/MultiPhotoPicker/app/src/main/res/layout/item_image_list.xml"
+    },
+    {
+        "merged": "/Users/zhangshan/Desktop/github代码测试/仿ios弹出框/MultiPhotoPicker/app/build/intermediates/res/merged/debug/layout/item_popupwindow.xml",
+        "source": "/Users/zhangshan/Desktop/github代码测试/仿ios弹出框/MultiPhotoPicker/app/src/main/res/layout/item_popupwindow.xml"
+    },
+    {
+        "merged": "/Users/zhangshan/Desktop/github代码测试/仿ios弹出框/MultiPhotoPicker/app/build/intermediates/res/merged/debug/layout/act_image_choose.xml",
+        "source": "/Users/zhangshan/Desktop/github代码测试/仿ios弹出框/MultiPhotoPicker/app/src/main/res/layout/act_image_choose.xml"
+    }
+]

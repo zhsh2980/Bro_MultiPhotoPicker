@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_gray">#e1e1e1</color>
+    <color name="black">#000000</color>
+    <color name="border_gray">#d9dfe5</color>
+    <color name="btn_gray">#d1d1d1</color>
+    <color name="deep_gray">#394257</color>
+    <color name="glass_gall">#c2ebef</color>
+    <color name="light_blue">#87d0f2</color>
+    <color name="light_gray">#99a4b7</color>
+    <color name="white">#ffffff</color>
+    <string name="app_name">MultiPhotoPicker</string>
+    <string name="cancel">取消</string>
+    <string name="publish_empty_text">想说什么…</string>
+    <string name="select_from_local">从相册中选取</string>
+    <string name="take_photo">拍照</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

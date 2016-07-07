@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/zhangshan/Desktop/github代码测试/仿ios弹出框/MultiPhotoPicker/app/build/intermediates/res/merged/debug/drawable/btn_del.xml",
+        "source": "/Users/zhangshan/Desktop/github代码测试/仿ios弹出框/MultiPhotoPicker/app/src/main/res/drawable/btn_del.xml"
+    },
+    {
+        "merged": "/Users/zhangshan/Desktop/github代码测试/仿ios弹出框/MultiPhotoPicker/app/build/intermediates/res/merged/debug/drawable/btn_cancel.xml",
+        "source": "/Users/zhangshan/Desktop/github代码测试/仿ios弹出框/MultiPhotoPicker/app/src/main/res/drawable/btn_cancel.xml"
+    },
+    {
+        "merged": "/Users/zhangshan/Desktop/github代码测试/仿ios弹出框/MultiPhotoPicker/app/build/intermediates/res/merged/debug/drawable/btn_add_pic.xml",
+        "source": "/Users/zhangshan/Desktop/github代码测试/仿ios弹出框/MultiPhotoPicker/app/src/main/res/drawable/btn_add_pic.xml"
+    },
+    {
+        "merged": "/Users/zhangshan/Desktop/github代码测试/仿ios弹出框/MultiPhotoPicker/app/build/intermediates/res/merged/debug/drawable/btn_confirm.xml",
+        "source": "/Users/zhangshan/Desktop/github代码测试/仿ios弹出框/MultiPhotoPicker/app/src/main/res/drawable/btn_confirm.xml"
+    },
+    {
+        "merged": "/Users/zhangshan/Desktop/github代码测试/仿ios弹出框/MultiPhotoPicker/app/build/intermediates/res/merged/debug/drawable/image_selected.xml",
+        "source": "/Users/zhangshan/Desktop/github代码测试/仿ios弹出框/MultiPhotoPicker/app/src/main/res/drawable/image_selected.xml"
+    },
+    {
+        "merged": "/Users/zhangshan/Desktop/github代码测试/仿ios弹出框/MultiPhotoPicker/app/build/intermediates/res/merged/debug/drawable/text_selector.xml",
+        "source": "/Users/zhangshan/Desktop/github代码测试/仿ios弹出框/MultiPhotoPicker/app/src/main/res/drawable/text_selector.xml"
+    },
+    {
+        "merged": "/Users/zhangshan/Desktop/github代码测试/仿ios弹出框/MultiPhotoPicker/app/build/intermediates/res/merged/debug/drawable/btn.xml",
+        "source": "/Users/zhangshan/Desktop/github代码测试/仿ios弹出框/MultiPhotoPicker/app/src/main/res/drawable/btn.xml"
+    }
+]

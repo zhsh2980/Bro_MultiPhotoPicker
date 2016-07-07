@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="19"
+    density="xxhdpi"
+    format="7"
+    timestamp="6048323823788"
+    token="5582618029791186057"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="172" />
+    <task
+        name="instant-run-dex"
+        duration="759" />
+    <task
+        name="instant-run-transform"
+        duration="10" />
+    <task
+        name="verifier"
+        duration="2" />
+
+    <artifact
+        location="/Users/zhangshan/Desktop/github代码测试/仿ios弹出框/MultiPhotoPicker/app/build/intermediates/reload-dex/debug/classes.dex"
+        type="RELOAD_DEX" />
+
+    <build timestamp="5815138740429" >
+        <artifact
+            location="/Users/zhangshan/Desktop/github代码测试/仿ios弹出框/MultiPhotoPicker/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="6026251791262"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/zhangshan/Desktop/github代码测试/仿ios弹出框/MultiPhotoPicker/app/build/intermediates/builds/debug/6026251791262/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="6048323823788"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/zhangshan/Desktop/github代码测试/仿ios弹出框/MultiPhotoPicker/app/build/intermediates/reload-dex/debug/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>

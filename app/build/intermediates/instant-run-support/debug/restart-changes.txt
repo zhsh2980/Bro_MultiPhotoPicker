@@ -1,0 +1,7 @@
+CHANGED,/Users/zhangshan/Desktop/github代码测试/仿ios弹出框/MultiPhotoPicker/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/nui/multiphotopicker/view/PublishActivity$1.class
+CHANGED,/Users/zhangshan/Desktop/github代码测试/仿ios弹出框/MultiPhotoPicker/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/nui/multiphotopicker/view/PublishActivity$PopupWindows.class
+CHANGED,/Users/zhangshan/Desktop/github代码测试/仿ios弹出框/MultiPhotoPicker/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/nui/multiphotopicker/view/PublishActivity$PopupWindows$3.class
+CHANGED,/Users/zhangshan/Desktop/github代码测试/仿ios弹出框/MultiPhotoPicker/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/nui/multiphotopicker/view/PublishActivity$PopupWindows$2.class
+CHANGED,/Users/zhangshan/Desktop/github代码测试/仿ios弹出框/MultiPhotoPicker/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/nui/multiphotopicker/view/PublishActivity$2.class
+CHANGED,/Users/zhangshan/Desktop/github代码测试/仿ios弹出框/MultiPhotoPicker/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/nui/multiphotopicker/view/PublishActivity.class
+CHANGED,/Users/zhangshan/Desktop/github代码测试/仿ios弹出框/MultiPhotoPicker/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/nui/multiphotopicker/view/PublishActivity$PopupWindows$1.class

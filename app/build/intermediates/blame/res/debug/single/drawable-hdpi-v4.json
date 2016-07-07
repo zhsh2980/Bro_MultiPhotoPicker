@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/zhangshan/Desktop/github代码测试/仿ios弹出框/MultiPhotoPicker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tag_selected.png",
+        "source": "/Users/zhangshan/Desktop/github代码测试/仿ios弹出框/MultiPhotoPicker/app/src/main/res/drawable-hdpi/tag_selected.png"
+    },
+    {
+        "merged": "/Users/zhangshan/Desktop/github代码测试/仿ios弹出框/MultiPhotoPicker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_confirm_unfocused.png",
+        "source": "/Users/zhangshan/Desktop/github代码测试/仿ios弹出框/MultiPhotoPicker/app/src/main/res/drawable-hdpi/icon_confirm_unfocused.png"
+    },
+    {
+        "merged": "/Users/zhangshan/Desktop/github代码测试/仿ios弹出框/MultiPhotoPicker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg_img.png",
+        "source": "/Users/zhangshan/Desktop/github代码测试/仿ios弹出框/MultiPhotoPicker/app/src/main/res/drawable-hdpi/bg_img.png"
+    },
+    {
+        "merged": "/Users/zhangshan/Desktop/github代码测试/仿ios弹出框/MultiPhotoPicker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_addpic_unfocused.png",
+        "source": "/Users/zhangshan/Desktop/github代码测试/仿ios弹出框/MultiPhotoPicker/app/src/main/res/drawable-hdpi/icon_addpic_unfocused.png"
+    },
+    {
+        "merged": "/Users/zhangshan/Desktop/github代码测试/仿ios弹出框/MultiPhotoPicker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_confirm_focused.png",
+        "source": "/Users/zhangshan/Desktop/github代码测试/仿ios弹出框/MultiPhotoPicker/app/src/main/res/drawable-hdpi/icon_confirm_focused.png"
+    },
+    {
+        "merged": "/Users/zhangshan/Desktop/github代码测试/仿ios弹出框/MultiPhotoPicker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_addpic_focused.png",
+        "source": "/Users/zhangshan/Desktop/github代码测试/仿ios弹出框/MultiPhotoPicker/app/src/main/res/drawable-hdpi/icon_addpic_focused.png"
+    },
+    {
+        "merged": "/Users/zhangshan/Desktop/github代码测试/仿ios弹出框/MultiPhotoPicker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_del_focused.png",
+        "source": "/Users/zhangshan/Desktop/github代码测试/仿ios弹出框/MultiPhotoPicker/app/src/main/res/drawable-hdpi/icon_del_focused.png"
+    },
+    {
+        "merged": "/Users/zhangshan/Desktop/github代码测试/仿ios弹出框/MultiPhotoPicker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/zhangshan/Desktop/github代码测试/仿ios弹出框/MultiPhotoPicker/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/zhangshan/Desktop/github代码测试/仿ios弹出框/MultiPhotoPicker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_del_unfocused.png",
+        "source": "/Users/zhangshan/Desktop/github代码测试/仿ios弹出框/MultiPhotoPicker/app/src/main/res/drawable-hdpi/icon_del_unfocused.png"
+    },
+    {
+        "merged": "/Users/zhangshan/Desktop/github代码测试/仿ios弹出框/MultiPhotoPicker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_cancel_focused.png",
+        "source": "/Users/zhangshan/Desktop/github代码测试/仿ios弹出框/MultiPhotoPicker/app/src/main/res/drawable-hdpi/icon_cancel_focused.png"
+    },
+    {
+        "merged": "/Users/zhangshan/Desktop/github代码测试/仿ios弹出框/MultiPhotoPicker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tag_selected2.png",
+        "source": "/Users/zhangshan/Desktop/github代码测试/仿ios弹出框/MultiPhotoPicker/app/src/main/res/drawable-hdpi/tag_selected2.png"
+    },
+    {
+        "merged": "/Users/zhangshan/Desktop/github代码测试/仿ios弹出框/MultiPhotoPicker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_cancel_unfocused.png",
+        "source": "/Users/zhangshan/Desktop/github代码测试/仿ios弹出框/MultiPhotoPicker/app/src/main/res/drawable-hdpi/icon_cancel_unfocused.png"
+    }
+]
